@@ -14,8 +14,6 @@
 		28BDB8B71ED674C100B317B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28BDB8B61ED674C100B317B0 /* Assets.xcassets */; };
 		28BDB8BA1ED674C100B317B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28BDB8B81ED674C100B317B0 /* LaunchScreen.storyboard */; };
 		28BDB8C41ED6751800B317B0 /* Cat.m in Sources */ = {isa = PBXBuildFile; fileRef = 28BDB8C31ED6751800B317B0 /* Cat.m */; };
-		28BDB8C71ED675A700B317B0 /* Cat.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 28BDB8C51ED675A700B317B0 /* Cat.podspec */; };
-		28BDB8C81ED675A700B317B0 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 28BDB8C61ED675A700B317B0 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,8 +29,6 @@
 		28BDB8BB1ED674C100B317B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28BDB8C21ED6751800B317B0 /* Cat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cat.h; sourceTree = "<group>"; };
 		28BDB8C31ED6751800B317B0 /* Cat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cat.m; sourceTree = "<group>"; };
-		28BDB8C51ED675A700B317B0 /* Cat.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cat.podspec; sourceTree = "<group>"; };
-		28BDB8C61ED675A700B317B0 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +61,6 @@
 		28BDB8A91ED674C100B317B0 /* PublicCat */ = {
 			isa = PBXGroup;
 			children = (
-				28BDB8C51ED675A700B317B0 /* Cat.podspec */,
-				28BDB8C61ED675A700B317B0 /* LICENSE */,
 				28BDB8C11ED6750400B317B0 /* Cat */,
 				28BDB8AD1ED674C100B317B0 /* AppDelegate.h */,
 				28BDB8AE1ED674C100B317B0 /* AppDelegate.m */,
@@ -159,8 +153,6 @@
 				28BDB8BA1ED674C100B317B0 /* LaunchScreen.storyboard in Resources */,
 				28BDB8B71ED674C100B317B0 /* Assets.xcassets in Resources */,
 				28BDB8B51ED674C100B317B0 /* Main.storyboard in Resources */,
-				28BDB8C71ED675A700B317B0 /* Cat.podspec in Resources */,
-				28BDB8C81ED675A700B317B0 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -331,6 +323,7 @@
 				28BDB8C01ED674C100B317B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
