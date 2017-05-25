@@ -15,6 +15,6 @@ s.license      = 'MIT'
 s.authors      = {'wyj''}
 s.platform     = :ios, '7.0'
 s.source       = {:git => 'https://github.com/yongjunwen/Cat.git', :tag => s.version}
-s.source_files = 'PublicCat/Cat/'
+s.source_files = 'Cat/'
 s.requires_arc = true
 end
