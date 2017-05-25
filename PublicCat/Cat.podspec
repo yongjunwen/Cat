@@ -10,11 +10,11 @@ Pod::Spec.new do |s|
 s.name         = 'Cat'
 s.version      = '1.0.0'
 s.summary      = 'An animal miaomiao'
-s.homepage     = 'https://github.com/ZJM6658/ActionSheetLikeWeChat'
+s.homepage     = 'https://github.com/yongjunwen/Cat'
 s.license      = 'MIT'
 s.authors      = {'wyj''}
 s.platform     = :ios, '6.0'
-s.source       = {:git => 'https://github.com/ZJM6658/ActionSheetLikeWeChat.git', :tag => s.version}
+s.source       = {:git => 'https://github.com/yongjunwen/Cat.git', :tag => s.version}
 s.source_files = 'Cat/*.'
 s.requires_arc = true
 end
