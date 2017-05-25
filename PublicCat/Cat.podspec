@@ -12,9 +12,9 @@ s.version      = '1.0.0'
 s.summary      = 'An animal miaomiao'
 s.homepage     = 'https://github.com/yongjunwen/Cat'
 s.license      = 'MIT'
-s.authors      = {'wyj''}
+s.authors      = {'wyj' => 'yjwenzzu@163.com'}
 s.platform     = :ios, '7.0'
 s.source       = {:git => 'https://github.com/yongjunwen/Cat.git', :tag => s.version}
-s.source_files = 'PublicCat/Cat/'
+s.source_files = 'PublicCat/Cat'
 s.requires_arc = true
 end
